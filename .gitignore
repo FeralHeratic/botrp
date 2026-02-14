@@ -1,0 +1,8 @@
+# Ignore private data
+characters.json
+.env
+
+# Ignore Python system files
+__pycache__/
+*.pyc
+.pytest_cache/
